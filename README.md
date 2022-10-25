@@ -1,4 +1,4 @@
-# react_portfolio
+/# react_portfolio
 responsive portfolio using react js and tailwind css
 
 live preview : https://johnalexportfolio.netlify.app/
